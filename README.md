@@ -19,4 +19,4 @@ In order to reproduce our measurement results, a working Docker version 27.0.3 a
 
 ### Running the framework
 
-You can run `main.py` for evaluation.
+Run `main.py` for evaluation.
